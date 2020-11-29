@@ -1,0 +1,28 @@
+{
+    "name": "dldapi",
+    "version": "1.0.2",
+    "description": "Unofficial API Module for Discord Lists Development",
+    "main": "index.js",
+    "directories": {
+        "lib": "lib"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "DLD",
+        "Discord",
+        "Bot",
+        "List",
+        "Discord",
+        "Lists",
+        "Development",
+        "API",
+        "Module"
+    ],
+    "author": "CyberCDN",
+    "license": "MIT",
+    "dependencies": {
+        "wumpfetch": "^0.3.1"
+    }
+}
